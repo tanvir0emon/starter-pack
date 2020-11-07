@@ -1,0 +1,10 @@
+.navbar {
+  background: linear-gradient(rgba(36, 23, 105, 0.9), rgba(76, 24, 180, 0.8)); }
+
+.nav-item {
+  font-size: 16px; }
+
+.navbar .nav-link {
+  font-size: 16px;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important; }
